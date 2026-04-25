@@ -1,0 +1,2 @@
+# ada_practicals
+algorithms
